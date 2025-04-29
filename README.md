@@ -1,2 +1,2 @@
 # Protonium
-2D-Game Arcade puzzle senior project
+2D-Game Arcade puzzle
