@@ -1,2 +1,2 @@
 # Protonium
-2D-Game Arcade puzzle
+2D Chemistry game with puzzle mechanics
